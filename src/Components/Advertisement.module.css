@@ -1,0 +1,9 @@
+.bottom{
+    position: absolute;
+    top: 360px;
+    right: 30px;
+    width: 840px;
+    height: 80px;
+    background-color: #b4a7d6;
+    outline: 1px solid black;
+}

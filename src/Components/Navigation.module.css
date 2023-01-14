@@ -1,0 +1,8 @@
+.mynav1{
+    display: inline-flex;
+    margin-left: 30px;
+    width: 360px;
+    height: 380px;
+    background-color: #6fa8de;
+    outline: 1px solid black;
+}

@@ -1,0 +1,9 @@
+.cont{
+    display: inline-flex;
+    width: 260px;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: #ffd966;
+    outline: 1px solid black;
+}
